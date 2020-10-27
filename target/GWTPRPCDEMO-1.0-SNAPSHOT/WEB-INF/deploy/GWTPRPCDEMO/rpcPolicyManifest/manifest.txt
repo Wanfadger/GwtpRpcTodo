@@ -1,0 +1,3 @@
+# Module GWTPRPCDEMO
+# RPC service class, partial path of RPC policy file
+com.gwtplatform.dispatch.rpc.shared.DispatchService, FD7D123A7CB8AE61C6B58E8B7816FE4C.gwt.rpc
